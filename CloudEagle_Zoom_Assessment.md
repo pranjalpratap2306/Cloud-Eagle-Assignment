@@ -1,7 +1,7 @@
 # CloudEagle Assessment - Product Management
 ## Zoom SaaS API Integration
 
-**Submitted by**: Assessment Candidate  
+**Submitted by**: Pranjal Rai 
 **Date**: October 1, 2025  
 **SaaS Application**: Zoom  
 
